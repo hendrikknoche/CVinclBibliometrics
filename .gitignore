@@ -51,4 +51,6 @@ rsconnect/
 # downloads, base data
 data/
 *.bib
+*.csv
 
+.positai
